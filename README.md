@@ -1,1 +1,1 @@
-# webgen
+#Simple static website generator in python
